@@ -1,3 +1,11 @@
+/*
+ * Dropzone Cropper v1.0.0
+ * https://github.com/NishantSolanki/dropzone-image-cropper
+ *
+ * Released under the MIT license
+ *
+ * Date: 2017-01-12
+ */
 <?php
 error_reporting(E_ALL | E_STRICT);
 require_once 'class.inc.php';
