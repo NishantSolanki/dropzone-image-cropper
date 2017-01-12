@@ -1,3 +1,13 @@
+/*!
+ * Dropzone Cropper v1.0.0
+ * https://github.com/NishantSolanki/dropzone-image-cropper
+ *
+ * Released under the MIT license
+ *
+ * Date: 2017-01-12
+ */
+
+
 var fileList_images = new Array;
 var i = 0;
 
